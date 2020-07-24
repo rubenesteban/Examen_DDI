@@ -1,0 +1,18 @@
+.column {
+    width:168px;
+    height:168px;
+    background-color: #DB7F1C;
+    margin:0px;
+    padding:0px;
+}
+
+
+.dos {
+    background-color: #ffffff;
+    
+}
+
+.row {
+    display:flex;
+    
+}
